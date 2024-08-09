@@ -1,6 +1,6 @@
 ![A picture of the Microsoft Logo](./docs/media/graphics/microsoftlogo.png)
 
-# Azure SQL Database Developer Workshop Overview 
+# Azure SQL Database Developer Workshop Overview
 
 ## Workshop Goals
 
